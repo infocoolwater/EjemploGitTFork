@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title>Pruebas HTML</title>
+	<meta charset="utf-8">
+	<link
+	<style>
+		div {
+			border:8px solid red;
+
+			/*text-align: center;*/
+		}
+		img {
+			width:10%;
+			border:6px solid blue;
+			background-color: aqua;
+			/* margin-left: 100px;
+			margin-top: 100px;
+			margin-bottom: 100px;
+			margin-right: 100px;*/
+			margin: 100px 500px;
+			/*padding: 20px 20px 20px 20px;*/
+			/*float:right;*/
+		}
+	
+	</style>
+</head>
+<body>
+	<div>
+		<a href="http://www.cesurformacion.com" target="_blank"><img src="img/ejemplo.jpg" alt="Esta imagen es de un perro grande y otro chico"></a>
+	</div>
+</body>
+</html>
